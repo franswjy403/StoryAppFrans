@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Story App Frans</string>
+    <string name="login">Login</string>
+    <string name="key_token">token</string>
+    <string name="my_preferences">My Preferences</string>
+    <string name="logout">Logout</string>
+    <string name="bearer">Bearer</string>
+    <string name="description">DESCRIPTION</string>
+    <string name="username">USERNAME</string>
+    <string name="register">REGISTER</string>
+    <string name="login_email_hint">Email</string>
+    <string name="login_password_hint">Password</string>
+    <string name="signup_login_hint">Already have an account? Sign In</string>
+    <string name="login_signup_hint">Don\'t have an account? Sign Up</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="normal_type">Normal</string>
+    <string name="satellite_type">Satellite</string>
+    <string name="terrain_type">Terrain</string>
+    <string name="hybrid_type">Hybrid</string>
+    <string name="maps">Maps</string>
+</resources>
